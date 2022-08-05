@@ -53,7 +53,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <!--START_SECTION:waka-->
 [![Waka Readme](https://github.com/sivabalanb/sivabalanb/actions/workflows/update-stats.yml/badge.svg)](https://github.com/sivabalanb/sivabalanb/actions/workflows/update-stats.yml)
-[![pages-build-deployment](https://github.com/sivabalanb/sivabalanb/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sivabalanb/sivabalanb/actions/workflows/pages/pages-build-deployment)
 
 ```text
 JSON         21 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
