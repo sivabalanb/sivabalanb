@@ -54,12 +54,12 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 17 mins    ███████░░░░░░░░░░░░░░░░░░   28.07 %
-JSON         1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-Python       50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-SCSS         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-SQL          27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JavaScript   3 hrs 24 mins   ████████████████████░░░░░   80.59 %
+CSS          22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+HTML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Python       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
