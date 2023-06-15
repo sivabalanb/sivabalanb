@@ -18,12 +18,23 @@
  -->
 <br />
 
-Hi, I'm [Sivabalan](https://www.linkedin.com/in/sivacsus/), a passionate self-taught Full Stack web developer in London. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hey there! 👋 I'm Sivabalan, a London-based full stack web developer, specializing in Python backend development. 🐍 With a keen focus on building robust and high-performing web applications, I have extensive experience in utilizing popular Python frameworks such as Flask, Tornado, and aiohttp.
+
+Using Flask, I create elegant and scalable web applications with its simplicity and flexibility. Tornado, on the other hand, empowers me to build efficient and asynchronous applications, perfect for handling high traffic and real-time scenarios. And with aiohttp, I leverage the power of asynchronous programming to develop blazing-fast web APIs and services. ⚡️
+
+My expertise doesn't stop at backend development. As a full stack developer, I have a deep understanding of frontend technologies like React, enabling me to seamlessly integrate the frontend and backend to deliver seamless user experiences. 💻
+
+Whether it's designing intuitive REST APIs, implementing authentication and authorization systems, or optimizing database performance, I take great care in delivering clean and maintainable code. 🔧
+
+💬 Have any questions or looking for assistance? I'm here to help! Let's connect and discuss how we can collaborate to bring your web application ideas to life. Together, we can create efficient, scalable, and delightful experiences for your users. 🚀
+*  Let's build something amazing! 🌟
+*  Ready to dive into the world of web development? Let's get started! 💪
+*  Innovation and creativity drive me. Let's innovate together! 💡
+*  Passionate about coding and creating exceptional user experiences. ❤️
+*  Always up for new challenges and learning opportunities. 📚
+*  Love to collaborate with talented individuals to bring ideas to life. 🤝
 
 
-<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
-   -->
-- 💬 Ask me about anything, I am happy to help;
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
