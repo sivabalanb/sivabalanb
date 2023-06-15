@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -17,46 +15,62 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=sivabalanb)
  -->
 <br />
+<h1 align="center">👋 Hey there, I'm Sivabalan!</h1>
 
-Hey there! 👋 I'm Sivabalan, a London-based full stack web developer, specializing in Python backend development. 🐍 With a keen focus on building robust and high-performing web applications, I have extensive experience in utilizing popular Python frameworks such as Flask, Tornado, and aiohttp.
+<p align="center">
+  <strong>London-based Full Stack Web Developer | Python Enthusiast | Tech Explorer</strong>
+</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<h2>✨ About Me</h2>
 
-Using Flask, I create elegant and scalable web applications with its simplicity and flexibility. Tornado, on the other hand, empowers me to build efficient and asynchronous applications, perfect for handling high traffic and real-time scenarios. And with aiohttp, I leverage the power of asynchronous programming to develop blazing-fast web APIs and services. ⚡️
+<p>
+  With a deep passion for web development and a focus on building robust and high-performing applications, I thrive on turning innovative ideas into exceptional user experiences. As a Full Stack Web Developer, I specialize in Python backend development and have extensive experience with popular frameworks like Flask, Tornado, and Django.
+</p>
 
-My expertise doesn't stop at backend development. As a full stack developer, I have a deep understanding of frontend technologies like React, enabling me to seamlessly integrate the frontend and backend to deliver seamless user experiences. 💻
+<h2>💻 Expertise</h2>
 
-Whether it's designing intuitive REST APIs, implementing authentication and authorization systems, or optimizing database performance, I take great care in delivering clean and maintainable code. 🔧
+<ul>
+  <li>🔥 Building scalable and elegant web applications using Flask, Tornado, and Django.</li>
+  <li>🚀 Creating efficient and asynchronous applications to handle high traffic and real-time scenarios.</li>
+  <li>⚡️ Developing blazing-fast web APIs and services using asynchronous programming.</li>
+  <li>🌐 Seamlessly integrating frontend technologies like React to deliver seamless user experiences.</li>
+  <li>🔧 Delivering clean and maintainable code, focusing on REST API design and database optimization.</li>
+</ul>
 
-💬 Have any questions or looking for assistance? I'm here to help! Let's connect and discuss how we can collaborate to bring your web application ideas to life. Together, we can create efficient, scalable, and delightful experiences for your users. 🚀
-*  Let's build something amazing! 🌟
-*  Ready to dive into the world of web development? Let's get started! 💪
-*  Innovation and creativity drive me. Let's innovate together! 💡
-*  Passionate about coding and creating exceptional user experiences. ❤️
-*  Always up for new challenges and learning opportunities. 📚
-*  Love to collaborate with talented individuals to bring ideas to life. 🤝
+<h2>🌟 Let's Connect</h2>
 
+<p>
+  I'm always excited to collaborate on interesting projects, explore new technologies, and contribute to the tech community. Feel free to reach out to me if you have any questions, need assistance, or simply want to connect. Let's bring your web application ideas to life and create remarkable digital experiences together!
+</p>
 
-### 📫 Like to meet me?
+<p align="center">
+  <a href="https://www.linkedin.com/in/sivacsus">✉️ Contact Me</a> | <a href="https://www.linkedin.com/in/sivacsus/">LinkedIn</a> | <a href="[github.com/sivabalanb](https://github.com/sivabalanb)">GitHub</a>
+</p>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<h2>🔥 Let's Innovate and Create Something Extraordinary!</h2>
 
-<a href="[https://calendly.com/anmol098/30min](https://calendly.com/event_types/user/me)" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<p align="center">
+  <em>"The only way to do great work is to love what you do." - Steve Jobs</em>
+</p>
 
-- 📝 [Resume](https://www.linkedin.com/in/sivacsus/)
+<h2>🎉Languages and Tools:</h2>
 
+<p align="center">
+  <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
+  <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+  <img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img height="40" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
+  <img height="40" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase">
+  <img height="40" src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode">
+  <img height="40" src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira">
+  <img height="40" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins">
+</p>
 
-**Languages and Tools:**  
-<code><img height="20" src="https://forthebadge.com/images/badges/built-with-love.svg" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></code>
           
           
           
@@ -65,30 +79,42 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 24 mins   ████████████████████░░░░░   80.59 %
-CSS          22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Python       3 hrs 24 mins   ███████████████████░░░░░░   80.59 %
+React        2 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   52.50 %
+JavaScript   1 hr 30 mins    ██████░░░░░░░░░░░░░░░░░░░   35.71 %
+CSS          30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   12.05 %
 HTML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Python       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
 
 
-📈 My GitHub Stats
+<h2> 📈 My GitHub Stats</h2>
 
-<p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=sivabalanb&show_icons=true&theme=merko" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sivabalanb&theme=dark&hide_border=true" width = 400>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivabalanb&show_icons=true&theme=merko" alt="GitHub Stats" width="45%" style="margin-right: 5%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sivabalanb&theme=dark&hide_border=true" alt="GitHub Streak" width="45%" style="margin-left: 5%;">
 </p>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/sivabalanb/count.svg" />
+
+<h2> Visitors count 👀</h2>
+
+<p align="center">
+  Wow! You're visitor number <img src="https://profile-counter.glitch.me/sivabalanb/count.svg" alt="Visitor Count">. You deserve a virtual high-five! 🙌 Thanks for stopping by, and let's connect and collaborate on some amazing projects together! 💪
 </p>
 
-[![@siva's Holopin board](https://www.holopin.io/api/user/board?user=siva)](https://holopin.io/@siva)
+
+## Achievements 🏆
+
+Unlock your accomplishments and showcase your journey in the coding realm with these prestigious achievements:
+
+- 🦈 **Pull Sharkx2**: A true champion in the open-source world, you've made not just one, but two impactful code contributions that caught the attention of the community.
+- ✨ **Starstruck**: Your exceptional work has earned you the admiration and recognition of fellow developers, as evidenced by the numerous stars bestowed upon your repositories.
+- ❄️ **Arctic Code Vault Contributor**: Your code is now preserved for future generations! By contributing to the Arctic Code Vault, you've made history and secured your place among the elite developers.
+
+These achievements symbolize your dedication, skill, and commitment to the world of coding. Wear them proudly and continue to make a difference in the software development universe!
+
 
 
 
