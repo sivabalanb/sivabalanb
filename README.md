@@ -55,7 +55,7 @@
   <em>"The only way to do great work is to love what you do." - Steve Jobs</em>
 </p>
 
-<h2>🎉Languages and Tools:</h2>
+<h2>🎉Languages and Tools</h2>
 
 <p align="center">
   <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
@@ -69,12 +69,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode">
   <img height="40" src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira">
   <img height="40" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins">
-</p>
-
-          
-          
-          
-          
+</p>       
 
 <!--START_SECTION:waka-->
 
