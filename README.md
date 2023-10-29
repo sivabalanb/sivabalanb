@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sivabalan.xyz/">✉️ Portfolio</a> | <a href="https://www.linkedin.com/in/sivacsus/">LinkedIn</a> | <a href="[github.com/sivabalanb](https://github.com/sivabalanb)">GitHub</a>
+  <a href="https://sivabalan.xyz/">Portfolio</a> | <a href="https://www.linkedin.com/in/sivacsus/">LinkedIn</a> | <a href="[github.com/sivabalanb](https://github.com/sivabalanb)">GitHub</a>
 </p>
 
 <h2>🔥 Let's Innovate and Create Something Extraordinary!</h2>
