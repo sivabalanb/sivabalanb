@@ -85,14 +85,10 @@ Other        5 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<h2> 📈 My GitHub Stats</h2>
+<h2> 📈  Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivabalanb&show_icons=true&theme=merko" alt="GitHub Stats" width="45%" style="margin-right: 5%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sivabalanb&theme=dark&hide_border=true" alt="GitHub Streak" width="45%" style="margin-left: 5%;">
-</p>
-
-
+[![sivabalanb's GitHub | Stats](https://stats.quine.sh/sivabalanb/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sivabalanb)
+[![sivabalanb's Stack Overflow | Stats](https://stats.quine.sh/sivabalanb/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sivabalanb)
 <h2> Visitors count 👀</h2>
 
 <p align="center">
