@@ -18,7 +18,7 @@
 <h1 align="center">👋 Hey there, I'm Sivabalan!</h1>
 
 <p align="center">
-  <strong>London-based Full Stack Web Developer | Python Enthusiast | Tech Explorer</strong>
+  <strong>Full Stack Web Developer | Python Enthusiast | Tech Explorer</strong>
 </p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
