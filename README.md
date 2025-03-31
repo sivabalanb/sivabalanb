@@ -101,13 +101,16 @@ Other        5 mins          ▓░░░░░░░░░░░░░░░░
 </div>
 
 
-
-
-
-<h2> Visitors count 👀</h2>
+<h2 align="center">👀 Visitor Count</h2>
 
 <p align="center">
-  Wow! You're visitor number <img src="https://profile-counter.glitch.me/sivabalanb/count.svg" alt="Visitor Count">. You deserve a virtual high-five! 🙌 Thanks for stopping by, and let's connect and collaborate on some amazing projects together! 💪
+  <img src="https://profile-counter.glitch.me/sivabalanb/count.svg" alt="Visitor Count" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-Dynamic-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Visitor Badge" />
+</p>
+
+
 
 
