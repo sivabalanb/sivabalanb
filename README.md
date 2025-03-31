@@ -84,11 +84,26 @@ Other        5 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<h2 align="center">📊 GitHub Stats</h2>
 
-<h2> 📈  Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivabalanb&show_icons=true&theme=radical" width="60%" />
+</div>
 
-[![sivabalanb's GitHub | Stats](https://stats.quine.sh/sivabalanb/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sivabalanb)
-[![sivabalanb's Stack Overflow | Stats](https://stats.quine.sh/sivabalanb/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sivabalanb)
+<br>
+
+<br>
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sivabalanb&theme=onestar&margin-w=10&row=2&column=4" width="70%" />
+</div>
+
+
+
+
+
 <h2> Visitors count 👀</h2>
 
 <p align="center">
@@ -96,10 +111,3 @@ Other        5 mins          ▓░░░░░░░░░░░░░░░░
 </p>
 
 
-## Achievements 🏆
-
-Unlock your accomplishments and showcase your journey in the coding realm with these prestigious achievements:
-
-- 🦈 **Pull Sharkx2**: A true champion in the open-source world, you've made not just one, but two impactful code contributions that caught the attention of the community.
-- ✨ **Starstruck**: Your exceptional work has earned you the admiration and recognition of fellow developers, as evidenced by the numerous stars bestowed upon your repositories.
-- ❄️ **Arctic Code Vault Contributor**: Your code is now preserved for future generations! By contributing to the Arctic Code Vault, you've made history and secured your place among the elite developers.
