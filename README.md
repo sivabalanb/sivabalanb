@@ -93,13 +93,14 @@ Other        5 mins          ▓░░░░░░░░░░░░░░░░
 <br>
 
 <br>
-
+<!--
 <h2 align="center">🏆 Achievements</h2>
-
+-->
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sivabalanb&theme=onestar&margin-w=10&row=2&column=4" width="70%" />
 </div>
-
+-->
 
 <h2 align="center">👀 Visitor Count</h2>
 
