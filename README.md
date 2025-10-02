@@ -103,10 +103,4 @@ Other        5 mins          ▓░░░░░░░░░░░░░░░░
 -->
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-Dynamic-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Visitor Badge" />
-</p>
-
-
-
 
