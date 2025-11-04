@@ -1,106 +1,87 @@
-
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
-<!-- <a href="https://www.linkedin.com/in/sivacsus/">
-  <img align="right" alt="Sivabalan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-<!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=sivabalanb)
- -->
-<br />
-<h1 align="center">👋 Hey there, I'm Sivabalan!</h1>
-
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hey there, I'm <a href="https://sivabalan.xyz">Sivabalan</a>!</h1>
 <p align="center">
-  <strong>Full Stack Web Developer | Python Enthusiast | Tech Explorer</strong>
+  <strong>💻 Senior Software Developer | 🐍 Python & API Specialist | ⚙️ Microservices Enthusiast</strong>
 </p>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Animation"/>
 </div>
-<h2>✨ About Me</h2>
 
-<p>
-  With a deep passion for web development and a focus on building robust and high-performing applications, I thrive on turning innovative ideas into exceptional user experiences. As a Full Stack Web Developer, I specialize in Python backend development and have extensive experience with popular frameworks like Flask, Tornado, and Django.
-</p>
+---
 
-<h2>💻 Expertise</h2>
+### ✨ About Me
 
-<ul>
-  <li>🔥 Building scalable and elegant web applications using Flask, Tornado, and Django.</li>
-  <li>🚀 Creating efficient and asynchronous applications to handle high traffic and real-time scenarios.</li>
-  <li>⚡️ Developing blazing-fast web APIs and services using asynchronous programming.</li>
-  <li>🌐 Seamlessly integrating frontend technologies like React to deliver seamless user experiences.</li>
-  <li>🔧 Delivering clean and maintainable code, focusing on REST API design and database optimization.</li>
-</ul>
+I'm a **Senior Software Developer** with a passion for building reliable, scalable, and high-performing web applications.  
+I specialize in **Python backend development** and love bringing ideas to life through elegant **APIs, automation, and microservices**.  
 
-<h2>🌟 Let's Connect</h2>
+Currently, I’m focused on:
+- 🚀 Designing distributed systems with FastAPI & Flask  
+- ⚡ Optimizing SQL queries & API performance  
+- 🤖 Exploring AI-assisted development and workflow automation  
+- 🌍 Building side projects that simplify everyday challenges  
 
-<p>
-  I'm always excited to collaborate on interesting projects, explore new technologies, and contribute to the tech community. Feel free to reach out to me if you have any questions, need assistance, or simply want to connect. Let's bring your web application ideas to life and create remarkable digital experiences together!
-</p>
+> “The only way to do great work is to love what you do.” — *Steve Jobs*
 
-<p align="center">
-  <a href="https://sivabalan.xyz/">Portfolio</a> | <a href="https://www.linkedin.com/in/sivacsus/">LinkedIn</a> | <a href="[github.com/sivabalanb](https://github.com/sivabalanb)">GitHub</a>
-</p>
+---
 
-<h2>🔥 Let's Innovate and Create Something Extraordinary!</h2>
+### 🧠 Core Expertise
 
-<p align="center">
-  <em>"The only way to do great work is to love what you do." - Steve Jobs</em>
-</p>
+- 🐍 **Python Frameworks**: FastAPI, Flask, Tornado, Django  
+- ⚙️ **Microservices Architecture** and async API design  
+- 🧩 **Frontend**: React, TypeScript, REST/GraphQL integration  
+- 🗄️ **Databases**: PostgreSQL, MySQL, SQLite, SQLAlchemy, Alembic  
+- ☁️ **DevOps & Infra**: Docker, GitHub Actions, Azure  
+- 📊 **Performance Optimization** & query tuning using EXPLAIN plans  
+- 🧠 **AI Exploration**: Integrating NLP and automation into real-world workflows  
 
-<h2>🎉Languages and Tools</h2>
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
-  <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
-  <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
   <img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI">
+  <img height="40" src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask">
+  <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
+  <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
   <img height="40" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
-  <img height="40" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase">
-  <img height="40" src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+  <img height="40" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure">
+  <img height="40" src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode">
   <img height="40" src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira">
-  <img height="40" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins">
-</p>       
+</p>
 
-<!--START_SECTION:waka-->
+---
 
-```text
-Python       3 hrs 24 mins   ███████████████████░░░░░░   80.59 %
-React        2 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   52.50 %
-JavaScript   1 hr 30 mins    ██████░░░░░░░░░░░░░░░░░░░   35.71 %
-CSS          30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-HTML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-```
+### 🧭 Projects I’m Proud Of
 
-<!--END_SECTION:waka-->
+- 🗺️ **Lunch Planner** — POC app for smart lunch planning  
+- 🚗 **WhosOn Route** — Web app for real-time ride sharing among office commuters  
+- 🧠 **AI-based Sentiment Analyzer (POC)** — NLP-based data aggregation for customer feedback  
+- 🧮 **SQL Performance Visualizer** — Compares SQL query EXPLAIN plans before & after optimization  
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
+
+### 🌍 Let’s Connect
+
+<p align="center">
+  <a href="https://sivabalan.xyz" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sivacsus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sivabalanb" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I believe great software is like chess —  
+control the center (core logic), understand value (trade-offs), and know when to retreat (refactor). ♟️
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivabalanb&show_icons=true&theme=radical" width="60%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Let's+Innovate+and+Build+Something+Extraordinary!;Turning+Ideas+into+Impact+through+Code." alt="Typing SVG" />
 </div>
-
-<br>
-
-<br>
-<!--
-<h2 align="center">🏆 Achievements</h2>
--->
-<!--
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sivabalanb&theme=onestar&margin-w=10&row=2&column=4" width="70%" />
-</div>
--->
-
-
-
