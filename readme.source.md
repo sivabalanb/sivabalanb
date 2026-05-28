@@ -1,12 +1,3 @@
-# 🌟 Sivabalan's Profile (Source Template)
-
-This file (`readme.source.md`) is designed to compile directly into your final `README.md` using the **`readme-aura`** engine from the Reddit thread. 
-
-It wraps React / JSX code directly in ```aura blocks which render to premium, crisp SVGs at build-time.
-
----
-
-<!-- Aura block: Header & Greeting Card -->
 ```aura width=800 height=200 align=center
 <div style={{
   display: 'flex',
@@ -44,12 +35,12 @@ It wraps React / JSX code directly in ```aura blocks which render to premium, cr
 
 ### 🚀 About Me
 
-I'm a **Senior Software Developer** specializing in designing and optimizing robust backends, microservice architectures, and modern API engines. I bring ideas to life by focusing on clean code, database performance tuning, and integrating intelligent automation workflows.
+I am a **Senior Software Developer** with a passion for designing and optimizing robust backends, microservice architectures, and modern API engines. I bring engineering concepts to life by focusing on clean, scalable code, advanced database performance tuning, and building intelligent automation workflows.
 
-* ⚙️ **Current Focus**: Designing distributed event-driven systems using FastAPI & Docker.
-* ⚡ **Performance Obsession**: Turning slow `EXPLAIN` query paths into sub-millisecond lookups.
-* 🤖 **AI Exploration**: Building intelligent agents and workflow automation that remove daily friction.
-* ♟️ **Philosophy**: "Great software is like chess — control the center (core logic), understand value (trade-offs), and know when to retreat (refactor)."
+* ⚙️ **Distributed Systems**: Engineering responsive microservices and high-throughput async APIs using FastAPI, Flask, and Tornado.
+* ⚡ **Performance Tuning**: Turning slow, sequential database queries into sub-millisecond lookups using query optimization and `EXPLAIN` plan analysis.
+* 🤖 **Intelligent Workflows**: Exploring and integrating NLP, semantic analyzers, and background workers into reliable data aggregation pipelines.
+* ♟️ **Architectural Philosophy**: *"Great software is like chess — control the center (core logic), understand value (trade-offs), and know when to retreat (refactor)."*
 
 ---
 
@@ -72,7 +63,6 @@ I'm a **Senior Software Developer** specializing in designing and optimizing rob
 
 ---
 
-<!-- Aura block: Core Tech Stack Grid Card -->
 ```aura width=800 height=320 align=center
 <div style={{
   display: 'flex',
@@ -144,7 +134,6 @@ I'm a **Senior Software Developer** specializing in designing and optimizing rob
 
 ---
 
-<!-- Aura block: Highlights Dashboard Card -->
 ```aura width=800 height=380 align=center
 <div style={{
   display: 'flex',
