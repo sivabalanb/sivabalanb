@@ -16,9 +16,7 @@ I am a **Senior Software Developer** with a passion for designing and optimizing
 ### 📊 Real-Time GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivabalanb&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide_rank=false" alt="Sivabalan's GitHub Stats" height="195" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivabalanb&layout=compact&theme=tokyonight&hide=html,css,jupyter" alt="Top Languages" height="195" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivabalanb&theme=tokyonight" alt="Sivabalan's GitHub Activity Graph" />
 </p>
 
 <p align="center">
