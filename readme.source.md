@@ -1,32 +1,142 @@
-```aura width=800 height=200 align=center
+```aura width=800 height=400 align=center
 <div style={{
   display: 'flex',
   flexDirection: 'column',
-  justifyContent: 'center',
-  alignItems: 'center',
   width: '800px',
-  height: '200px',
-  background: 'linear-gradient(135deg, #0d1117 0%, #151b23 50%, #0d1117 100%)',
-  border: '1px solid #30363d',
-  borderRadius: '16px',
+  height: '400px',
+  background: '#0a0d14',
+  border: '1px solid #1f2a44',
+  borderRadius: '20px',
+  padding: '28px',
   fontFamily: 'Inter, system-ui, sans-serif',
   color: '#c9d1d9',
-  boxShadow: '0 8px 32px 0 rgba(0, 191, 255, 0.08)'
+  position: 'relative',
+  overflow: 'hidden'
 }}>
-  <span style={{ fontSize: '36px', fontWeight: '800', color: '#00BFFF', letterSpacing: '-1px' }}>
-    👋 Hey there, I'm Sivabalan
-  </span>
-  <span style={{ fontSize: '18px', color: '#8b949e', marginTop: '10px', fontWeight: '500' }}>
-    Senior Software Developer | Python & API Specialist | Microservices Enthusiast
-  </span>
+  {/* CSS Keyframe Animations parsed directly by the browser */}
+  <style>{`
+    @keyframes pulse {
+      0% { opacity: 0.3; transform: scale(0.98); }
+      50% { opacity: 1; transform: scale(1); }
+      100% { opacity: 0.3; transform: scale(0.98); }
+    }
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+      100% { transform: translateY(0px); }
+    }
+  `}</style>
+
+  {/* Background Scanline Layer */}
   <div style={{
     display: 'flex',
-    marginTop: '15px',
-    gap: '12px'
-  }}>
-    <span style={{ padding: '4px 10px', background: '#21262d', border: '1px solid #30363d', borderRadius: '12px', fontSize: '12px', color: '#00BFFF' }}>🐍 Python</span>
-    <span style={{ padding: '4px 10px', background: '#21262d', border: '1px solid #30363d', borderRadius: '12px', fontSize: '12px', color: '#00BFFF' }}>⚡ FastAPI</span>
-    <span style={{ padding: '4px 10px', background: '#21262d', border: '1px solid #30363d', borderRadius: '12px', fontSize: '12px', color: '#00BFFF' }}>⚙️ Microservices</span>
+    position: 'absolute',
+    top: 0, left: 0, right: 0, bottom: 0,
+    background: 'linear-gradient(rgba(0, 191, 255, 0.03) 50%, rgba(0, 0, 0, 0) 50%)',
+    backgroundSize: '100% 4px',
+    pointerEvents: 'none'
+  }} />
+
+  {/* Header Row */}
+  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+    <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+      {/* Animated Heartbeat Indicator */}
+      <div style={{
+        display: 'flex',
+        width: '12px',
+        height: '12px',
+        borderRadius: '50%',
+        backgroundColor: '#00BFFF',
+        animation: 'pulse 2s infinite ease-in-out'
+      }} />
+      <span style={{ fontSize: '18px', fontWeight: '800', color: '#ffffff', letterSpacing: '1px', textTransform: 'uppercase' }}>
+        Sivabalan Core Engine HUD
+      </span>
+    </div>
+    <div style={{ display: 'flex', fontSize: '11px', color: '#58a6ff', fontFamily: 'monospace', border: '1px solid #1f2a44', padding: '4px 10px', borderRadius: '6px', background: '#161b22' }}>
+      SYS_STATUS: ACTIVE_OK
+    </div>
+  </div>
+
+  {/* Main Content Grid */}
+  <div style={{ display: 'flex', flex: 1, marginTop: '24px', gap: '24px' }}>
+    
+    {/* Left Column: Diagnostics Gauges */}
+    <div style={{ display: 'flex', flexDirection: 'column', flex: 1.2, gap: '16px' }}>
+      <span style={{ fontSize: '12px', color: '#8b949e', textTransform: 'uppercase', letterSpacing: '1px', fontWeight: 'bold' }}>
+        ⚡ Performance Engine Diagnostics
+      </span>
+      
+      {/* Gauge 1: Database Latency */}
+      <div style={{ display: 'flex', flexDirection: 'column' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', marginBottom: '6px' }}>
+          <span style={{ color: '#c9d1d9', fontWeight: '600' }}>🗄️ DB Latency (EXPLAIN Optimized)</span>
+          <span style={{ color: '#00BFFF', fontWeight: 'bold', fontFamily: 'monospace' }}>0.8ms</span>
+        </div>
+        <div style={{ display: 'flex', width: '100%', height: '8px', background: '#161b22', borderRadius: '4px', overflow: 'hidden', border: '1px solid #1f2a44' }}>
+          <div style={{ display: 'flex', width: '98%', height: '100%', background: 'linear-gradient(90deg, #00BFFF 0%, #00ffff 100%)', borderRadius: '4px' }} />
+        </div>
+      </div>
+
+      {/* Gauge 2: API Throughput Efficiency */}
+      <div style={{ display: 'flex', flexDirection: 'column' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', marginBottom: '6px' }}>
+          <span style={{ color: '#c9d1d9', fontWeight: '600' }}>⚡ FastAPI Pipeline Throughput</span>
+          <span style={{ color: '#39ff14', fontWeight: 'bold', fontFamily: 'monospace' }}>99.9%</span>
+        </div>
+        <div style={{ display: 'flex', width: '100%', height: '8px', background: '#161b22', borderRadius: '4px', overflow: 'hidden', border: '1px solid #1f2a44' }}>
+          <div style={{ display: 'flex', width: '99%', height: '100%', background: 'linear-gradient(90deg, #39ff14 0%, #00ff88 100%)', borderRadius: '4px' }} />
+        </div>
+      </div>
+
+      {/* Gauge 3: LLM Autopilot Reliability */}
+      <div style={{ display: 'flex', flexDirection: 'column' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', marginBottom: '6px' }}>
+          <span style={{ color: '#c9d1d9', fontWeight: '600' }}>🤖 Agentic Autopilot Load</span>
+          <span style={{ color: '#bd00ff', fontWeight: 'bold', fontFamily: 'monospace' }}>94.2%</span>
+        </div>
+        <div style={{ display: 'flex', width: '100%', height: '8px', background: '#161b22', borderRadius: '4px', overflow: 'hidden', border: '1px solid #1f2a44' }}>
+          <div style={{ display: 'flex', width: '94%', height: '100%', background: 'linear-gradient(90deg, #bd00ff 0%, #ff00ff 100%)', borderRadius: '4px' }} />
+        </div>
+      </div>
+    </div>
+
+    {/* Right Column: Dynamic System Console Logs */}
+    <div style={{
+      display: 'flex',
+      flexDirection: 'column',
+      flex: 0.8,
+      background: '#0d1117',
+      border: '1px solid #1f2a44',
+      borderRadius: '12px',
+      padding: '16px',
+      fontSize: '11px',
+      fontFamily: 'monospace',
+      color: '#8b949e',
+      justifyContent: 'space-between',
+      animation: 'float 4s infinite ease-in-out'
+    }}>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+        <span style={{ color: '#00BFFF', fontWeight: 'bold' }}>&gt; init_sivabalan_hud.sh</span>
+        <span style={{ color: '#39ff14' }}>[ OK ] FastAPI Server Online.</span>
+        <span style={{ color: '#39ff14' }}>[ OK ] EXPLAIN plan index tuned.</span>
+        <span style={{ color: '#39ff14' }}>[ OK ] LLM Semantic Worker active.</span>
+        <span style={{ color: '#bd00ff' }}>[ LOAD ] Running agentic loops...</span>
+      </div>
+      
+      <div style={{ display: 'flex', flexDirection: 'column', borderTop: '1px solid #1f2a44', paddingTop: '10px', marginTop: '10px' }}>
+        <span style={{ color: '#ffffff', fontWeight: 'bold' }}>♟️ CHESS_STRATEGY:</span>
+        <span style={{ fontSize: '10px', color: '#8b949e', marginTop: '4px', lineHeight: '1.3' }}>
+          Refactor code when center control is secure. Always secure the core logic.
+        </span>
+      </div>
+    </div>
+  </div>
+
+  {/* Footer */}
+  <div style={{ display: 'flex', borderTop: '1px solid #1f2a44', paddingTop: '14px', justifyContent: 'space-between', fontSize: '11px', color: '#8b949e' }}>
+    <span>* Interactive CSS animations render dynamically in browser</span>
+    <span>v1.2.0-cyberpunk-hud</span>
   </div>
 </div>
 ```
