@@ -46,19 +46,14 @@ I am a **Senior Software Developer** with a passion for designing and optimizing
 
 ### 📊 Real-Time GitHub Analytics
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=sivabalanb&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide_rank=false" alt="Sivabalan's GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivabalanb&layout=compact&theme=tokyonight&hide=html,css,jupyter" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivabalanb&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide_rank=false" alt="Sivabalan's GitHub Stats" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivabalanb&layout=compact&theme=tokyonight&hide=html,css,jupyter" alt="Top Languages" height="195" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivabalanb&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" style="max-width: 820px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivabalanb&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
