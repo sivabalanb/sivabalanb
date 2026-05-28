@@ -198,6 +198,66 @@ I am a **Senior Software Developer** with a passion for designing and optimizing
 
 ---
 
+```aura width=800 height=380 align=center
+<div style={{
+  display: 'flex',
+  flexDirection: 'column',
+  width: '800px',
+  height: '380px',
+  background: 'linear-gradient(135deg, #0d1117 0%, #151b23 100%)',
+  border: '1px solid #30363d',
+  borderRadius: '16px',
+  padding: '24px',
+  fontFamily: 'Inter, system-ui, sans-serif',
+  color: '#c9d1d9',
+  justifyContent: 'space-between'
+}}>
+  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid #21262d', paddingBottom: '10px' }}>
+    <span style={{ fontSize: '20px', fontWeight: '700', color: '#ffffff' }}>
+      🤖 AI, LLM & Workflow Automation
+    </span>
+    <span style={{ fontSize: '11px', color: '#00BFFF', background: '#00BFFF22', border: '1px solid #00BFFF', padding: '3px 8px', borderRadius: '12px' }}>
+      Active Engineering
+    </span>
+  </div>
+
+  <div style={{ display: 'flex', flexDirection: 'column', gap: '15px' }}>
+    {/* Topic 1 */}
+    <div style={{ display: 'flex', gap: '15px', alignItems: 'flex-start' }}>
+      <div style={{ fontSize: '24px', padding: '10px', background: '#161b22', border: '1px solid #21262d', borderRadius: '10px' }}>🧠</div>
+      <div style={{ display: 'flex', flexDirection: 'column', flex: 1 }}>
+        <span style={{ fontSize: '15px', fontWeight: 'bold', color: '#ffffff' }}>NLP Sentiment Feedback Pipeline</span>
+        <span style={{ fontSize: '12px', color: '#8b949e', marginTop: '4px', lineHeight: '1.4' }}>
+          Ingests customer support logs, routes through semantic analyzers (OpenAI APIs), and structures profiles to identify pain points and satisfaction trends.
+        </span>
+      </div>
+    </div>
+
+    {/* Topic 2 */}
+    <div style={{ display: 'flex', gap: '15px', alignItems: 'flex-start' }}>
+      <div style={{ fontSize: '24px', padding: '10px', background: '#161b22', border: '1px solid #21262d', borderRadius: '10px' }}>⚙️</div>
+      <div style={{ display: 'flex', flexDirection: 'column', flex: 1 }}>
+        <span style={{ fontSize: '15px', fontWeight: 'bold', color: '#ffffff' }}>LLM Agentic Workflow Automation</span>
+        <span style={{ fontSize: '12px', color: '#8b949e', marginTop: '4px', lineHeight: '1.4' }}>
+          Building reliable agent loops that leverage tools (APIs, databases, bash) to automate high-friction development tasks and orchestrate microservice checks.
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div style={{ display: 'flex', gap: '8px', borderTop: '1px solid #21262d', paddingTop: '12px', fontSize: '11px', color: '#8b949e' }}>
+    <span>💡 Core Tech:</span>
+    <span style={{ color: '#00BFFF' }}>LangChain</span>
+    <span>•</span>
+    <span style={{ color: '#00BFFF' }}>OpenAI / Gemini APIs</span>
+    <span>•</span>
+    <span style={{ color: '#00BFFF' }}>FastAPI Background Tasks</span>
+  </div>
+</div>
+```
+
+---
+
 ### 💬 Let's Connect
 
 <p align="center">
